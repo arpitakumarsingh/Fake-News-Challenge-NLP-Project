@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 echo "Running Stance Analysis"
 cd FNC-Project-Stance
 python3 stance_main.py
